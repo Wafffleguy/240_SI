@@ -74,7 +74,7 @@ i--;
 i--;
 i--;
 i--;
-if (i){
+if (!i){
     cout << "It disappeared!";
 }
 else{
