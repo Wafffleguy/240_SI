@@ -39,7 +39,7 @@ cout << "\nYou are " << age << " years old!";
 ```c++
 double Farenheit;
 cin >> Farenheit;
-Celsius = ((Farenheit - 32) / 9) * 5;
+double Celsius = ((Farenheit - 32) / 9) * 5;
 cout << "The temperature in Celsius is " << Celsius;
 ```
 
