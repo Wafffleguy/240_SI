@@ -21,7 +21,7 @@ Phil = 100.00;
 CSCI = 80.00;
 Hist = 50.00;
 Math = 100.00;
-double GPA = (100.00 + 80.00 + 50.00 + 100.00) / 4; // average
+double GPA = (Phil + CSCI + Hist + Math) / 4; // average
 double GPA_Scaled = GPA / 25; //On a 4.0 Scale
 ```
 
