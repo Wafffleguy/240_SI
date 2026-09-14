@@ -27,6 +27,8 @@ if x < 40
 
 ## Problems:
 
+Write an if statement for each of the following problems that passes the desired integer (A pass is when the condition succeeds).
+
 1. I want an integer greater that $500$, and less than $3000$. 
 
 2. I want an integer that is divisible by $3$.
