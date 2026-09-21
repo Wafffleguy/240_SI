@@ -1,5 +1,5 @@
 # CSCI 240 - Supplemental Instruction
-### Compound Conditionals
+### Create Loops
 ---
 
 For the following questions, create a loop that achieves the desired effect. Loop type does not matter, but there are more effective choices for some questions. 
