@@ -32,7 +32,7 @@ do {
     std::cout << i << std::endl;
     sum += i;
     i++;
-} while (i < 25) //note the difference here
+} while (i <= 25) //note the difference here
 ```
 
 ### 1.2
