@@ -95,3 +95,49 @@ ____ function2(___ question, ___ opt1, ___ opt2, ___ opt3, char ___){
 }
 
 ```
+
+
+---
+
+### Function 3
+
+For the third (and final) function, we will be using the menu function above to make a small calculator. It will take in input from the user and use that to perform a calculation. For example, the function call
+```C++
+function3();
+```
+will output 
+```
+Which operation? (+, -, /, *): ___
+First number: ___
+Second number: ___
+Result: ___
+```
+Here is our function. 
+```C++
+___ function3(){
+    char operation;
+    ___ num1, num2;
+    int result;
+    operation = function2("______", '___', '___', '___', '___');
+    cout << "First number: ";
+    cin >> ___;
+    cout << "_____";
+    cin >> ___;
+
+    if (operation == '__'){
+        result = num1 + num2;
+    }
+    else if (operation == '__'){
+        result = num1 - num2;
+    } 
+    else if (operation == '__'){
+        result = num1 * num2;
+    }
+    else if (operation == '__'){
+        result = num1 / num2;
+    }
+    cout << "Result: " << result << endl;
+
+}
+
+```
