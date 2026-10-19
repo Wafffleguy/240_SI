@@ -48,6 +48,8 @@ outputs
 ```
 In other words, $2$ lines of $10$ % signs. 
 
+
+
 Your starter function is:
 
 ```C++
