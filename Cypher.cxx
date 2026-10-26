@@ -4,9 +4,6 @@
 
 using namespace std;
 
-
-
-
 char ShiftAlpha(char a);
 char ShiftNum(char a);
 
