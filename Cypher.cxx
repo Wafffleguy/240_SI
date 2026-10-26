@@ -20,7 +20,7 @@ int main(){
 
     cout << "What is the size of the message you want to encode? (MAX 100) ";
     cin >> size;
-    cout << "What is the message you want to encode? (Size: " << size << ")";
+    cout << "What is the message you want to encode? (Size: " << size << ") (NO SPACES) ";
     cin >> array;
 
     Encode(array, size);
