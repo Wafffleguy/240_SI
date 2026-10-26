@@ -81,10 +81,18 @@ Encode(array);
 
 Output:
 ```
-
-
+Mjqqt Btwqi!
 ```
 
 ---
 
 ### Part Five
+
+Now add in the following code to main: 
+```C++
+    cout << "What is the size of the message you want to encode? (MAX 100) ";
+    cin >> size;
+    cout << "What is the message you want to encode? (Size: " << size << ") ";
+    cin >> array;
+```
+What happens when we try the same phrase? Why do you think that happens?
