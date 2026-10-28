@@ -3,7 +3,7 @@
 ---
 
 
-Given a set of values, use `Selection Sort` to order the sets. You must order them in both **Ascending** and **Descending** order, and you must write out every step. You may stop when you have a sorted array, although it is important to note that the implementation of selection sort does not stop when sorted. 
+Given a set of values, use `Selection Sort` to order the sets. You must order them in both **Ascending** and **Descending** order, and you must write out every step. You may stop when you have a sorted array, although it is important to note that the implementation of selection sort does not stop when the array is sorted. 
 
 
 ### Example (Ascending Order):
