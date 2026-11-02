@@ -18,7 +18,8 @@ Your function should take in an array of integers, as well as the size of the ar
 int Distance(int [], int);
 
 int main(){
-    cout << Distance(5, 10); //should spit out "5".
+    int a [2] = {5, 10};
+    cout << Distance(a, 2); //should spit out "5".
     return 0;
 }
 
