@@ -153,5 +153,19 @@ Which of the following checks if a `char` called `A` is holding one of the digit
 - `isdigit(A)`
 - `isNUM(A)`
 
+### Question Three:
+
+The character array below is converted to its ASCII values by a function called `void ConvertASCII(char a[], int b[])`, which stores the ASCII values in `b`. Which of the following is the result of that function call?
+
+```C++
+char A [8] = {'A', 'B', 'c', 'd', '0', '9', '6', ' '};
+int B [8] = {0} 
+ConvertASCII(A, B);
+```
+
+- `B = {65, 66, 99, 100, 48, 57, 54, 40}`
+- `B = {0, 0, 0, 0, 0, 0, 0, 0}`
+- `B = {97, 98, 67, 68, 48, 57, 54, 40}`
+
 ---
 
