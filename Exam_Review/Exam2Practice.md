@@ -42,4 +42,8 @@ Convert all the ASCII values below to characters.
 
 ## Part Five: Functions with References
 
+You must write the function prototype and header for these. 
+
 1. Write a function named `Func1`, which takes in two integers, and a reference to an integer, and returns nothing. It should add the two non-reference integers, and store the result in the referenced integer. 
+
+2. Write a function that computes the distance between any two doubles, and returns the answer as a double. Reminder: Distances cannot be negative. 
