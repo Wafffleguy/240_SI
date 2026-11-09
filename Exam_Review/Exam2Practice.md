@@ -15,7 +15,7 @@
 
 1. Convert all of the above code into separate functions. The functions should only return `void`. 
 
-2. Create a function that returns the ASCII value of input characters. 
+2. Create a function that stores the ASCII value of input characters from an array into a separate array of integers. 
 
 ## Part Three: Characters
 
