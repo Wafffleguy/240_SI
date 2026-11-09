@@ -117,3 +117,41 @@ int d = Function(a, b, c);
 
 ---
 
+## Part Three: Sorting and Characters
+
+### Question One:
+Using selection sort on the below array `A` in **Ascending Order**, what is the output? (In other words, what is the order of the characters below from lowest ASCII value to greatest?)
+
+```C++
+char A = {a, b, A, c, Z, B, 0, 2, 9, K, p}
+```
+
+- `A = {0, 2, 9, A, B, K, Z, a, b, c, p}`
+- `A = {A, a, B, b, c, K, p, Z, 0, 2, 9}`
+- `A = {0, 2, 9, a, A, b, B, c, K, p, Z}`
+- Selection sort does not work on characters.
+
+---
+
+## Part Four: Characters and Character Functions
+
+### Question One:
+
+Which of the following changes a `char` named `A` to its uppercase counterpart? 
+
+- `toUpper(A)`
+- `toLower(A)`
+- `toupper(A)`
+- `toupper()`
+
+### Question Two: 
+
+Which of the following checks if a `char` called `A` is holding one of the digits $0 \to 9$? 
+
+- `IsDigit(A)`
+- `isdigit`
+- `isdigit(A)`
+- `isNUM(A)`
+
+---
+
