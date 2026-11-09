@@ -137,24 +137,6 @@ char A = {a, b, A, c, Z, B, 0, 2, 9, K, p}
 
 ### Question One:
 
-Which of the following changes a `char` named `A` to its uppercase counterpart? 
-
-- `toUpper(A)`
-- `toLower(A)`
-- `toupper(A)`
-- `toupper()`
-
-### Question Two: 
-
-Which of the following checks if a `char` called `A` is holding one of the digits $0 \to 9$? 
-
-- `IsDigit(A)`
-- `isdigit`
-- `isdigit(A)`
-- `isNUM(A)`
-
-### Question Three:
-
 The character array below is converted to its ASCII values by a function called `void ConvertASCII(char a[], int b[])`, which stores the ASCII values in `b`. Which of the following is the result of that function call?
 
 ```C++
