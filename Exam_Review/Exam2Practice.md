@@ -8,7 +8,6 @@
 
 2. Create an array of 20 numbers, and fill in the places in the array using the formula `A[i] = A[i-1] + A[i-2]`. Output every odd index of the array on its own line. Then, output the entire array in reverse order. 
 
-3. Create an array of 30 random numbers, and sort them with Selection Sort. Output the original array and the array after sorting on separate lines, with each value separated by a comma. 
 
 
 ## Part Two: Functions with Arrays
